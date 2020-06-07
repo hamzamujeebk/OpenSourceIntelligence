@@ -1,4 +1,7 @@
 # Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://img.shields.io/github/forks/rajkumardusad/Tool-X.svg)](https://github.com/hamzamujeebiqbal/Hacking)
+[![Build Status](https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg)](https://github.com/hamzamujeebiqbal/Hacking)
+[![License](https://img.shields.io/github/license/rajkumardusad/Tool-X.svg)](https://github.com/hamzamujeebiqbal/Hacking)
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
