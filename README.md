@@ -1,5 +1,5 @@
 # Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://img.shields.io/github/forks/hamzamujeebiqbal/OpenSouceIntelligence.svg)](https://github.com/hamzamujeebiqbal/OpenSourceIntelligence)
+[![Build Status](https://img.shields.io/github/forks/hamzamujeebiqbal/OpenSouceInteligence.svg)](https://github.com/hamzamujeebiqbal/OpenSourceIntelligence)
 [![Build Status](https://img.shields.io/github/stars/hamzamujeebiqbal/OpenSourceIntelligence.svg)](https://github.com/hamzamujeebiqbal/OpenSourceIntelligence)
 [![License](https://img.shields.io/github/license/hamzamujeebiqbal/OpenSourceIntelligence.svg)](https://github.com/hamzamujeebiqbal/OpenSourceIntelligence)
 
